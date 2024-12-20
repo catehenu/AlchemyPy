@@ -109,5 +109,6 @@ The system is structured with the following key relationships:
    ```bash
    git clone <repository-url>
 
-link
-https://docs.google.com/presentation/d/1CwUIO_GiyHhaYTCOo3RPocVq--WUYl_ovYi2qSbGmsE/edit#slide=id.p
+#link
+slides- https://docs.google.com/presentation/d/1CwUIO_GiyHhaYTCOo3RPocVq--WUYl_ovYi2qSbGmsE/edit#slide=id.p
+recording-  https://www.loom.com/share/c3face23dafa484d963b2b713c114c29?sid=0aae66f8-0473-48ef-a678-6f3668b0ddc6
