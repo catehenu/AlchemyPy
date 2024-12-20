@@ -108,3 +108,6 @@ The system is structured with the following key relationships:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
+link
+https://docs.google.com/presentation/d/1CwUIO_GiyHhaYTCOo3RPocVq--WUYl_ovYi2qSbGmsE/edit#slide=id.p
